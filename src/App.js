@@ -28,6 +28,7 @@ const categories = [
     imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
   },
 ];
+
 function App() {
   return (
     <div className="App">
